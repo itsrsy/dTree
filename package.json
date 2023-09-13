@@ -35,7 +35,7 @@
     "babel-core": "^6.26.3",
     "babel-eslint": "^4.0.5",
     "babelify": "^6.0.0",
-    "browserify": "^11.0.1",
+    "browserify": "^17.0.0",
     "connect": "^3.4.0",
     "conventional-changelog": "^0.5.3",
     "conventional-github-releaser": "^0.5.1",
