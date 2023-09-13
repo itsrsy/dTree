@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/ErikGartner/dtree",
   "dependencies": {
-    "d3": "^4.5.0",
+    "d3": "^7.8.5",
     "lodash": "^4.0.0"
   },
   "devDependencies": {
